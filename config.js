@@ -9,10 +9,10 @@ module.exports = {
 FOOTER: process.env.FOOTER || "*◆─〈 ✦𝐃𝐢𝐝𝐮𝐥𝐚 𝐌𝐃 𝐕𝟐✦ 〉─◆*",
 ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/tC37Q7B/20241220-122443.jpg",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
-MODE: process.env.MODE || "public",
-ALWAYS_ONLINE : process.env.ALWAYS_ONLINE || "false",
+MODE: process.env.MODE || "private",
+ALWAYS_ONLINE : process.env.ALWAYS_ONLINE || "true",
 AUTO_TYPING: process.env.AUTO_TYPING || "false",
-AUTO_RECORDING: process.env.AUTO_RECORDING || "true",
+AUTO_RECORDING: process.env.AUTO_RECORDING || "false",
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 AUTO_STATUS__MSG: process.env.AUTO_STATUS__MSG || "*SEEN YOUR STATUS BY Didula MD V2*",
 ANTI_CALL: process.env.ANTI_CALL || "false",
@@ -22,7 +22,7 @@ ANTI_CALL: process.env.ANTI_CALL || "false",
 
 
 
-SESSION_ID: process.env.SESSION_ID || "",
+SESSION_ID: process.env.SESSION_ID || "PRABATH-MD~bdMHDASY#3YDnL8cVSonDqRvfPbONuZNqugAieeDRbE8CMimFehk",
 
 
 
@@ -36,7 +36,7 @@ SESSION_ID: process.env.SESSION_ID || "",
 
 
 
-ALIVE_REACT: process.env.ALIVE_REACT || "⚠️",
+ALIVE_REACT: process.env.ALIVE_REACT || "💀",
 };
 
 
